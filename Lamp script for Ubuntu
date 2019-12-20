@@ -2,7 +2,7 @@
 
 #######################################
 # Bash script to install an AMP stack and PHPMyAdmin plus tweaks. For Debian based systems.
-# Written by @AamnahAkram from http://aamnah.com
+# Written by @Atul Verma
 
 # In case of any errors (e.g. MySQL) just re-run the script. Nothing will be re-installed except for the packages with errors.
 #######################################
